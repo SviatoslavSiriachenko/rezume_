@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, inittial-scale=1"
+  <title>Резюме</title>
+</head>
+<body>
+  <header>
+   <img src="https://viva.ua/storage/crop/stars/avatar_170_max.jpg", width=405, height=260>
+    <h1>
+   Кирило Білий
+    </h1>
+    <p>
+    Студент
+    </p>
+  </header>
+  <main>
+  <section>
+    <h2>
+    Контактна інформація
+    </h2>
+    <h3>
+    <li>EMail: email@gmail.com</li>
+    <li>Телефон: +380954206498</li>
+    <li>Адреса: м. Суми, Україна</li>
+    </h3>
+  </section>
+    <section>
+      <h2>
+      Освіта
+      </h2>
+      <h3>
+       <p>
+      КУ Сумська загальноосвітня школа №18 I-III ступенів
+      </p>
+      </h3>
+    </section>
+    <section>
+     <h2>
+     Навички
+     </h2> 
+     <h3>
+     <li>Розробка проєктів з елеектропостачання</li>
+     <li>Виконання технічних розрахунків</li>
+     <li>Складання графіків</li>
+     </h3>
+    </section>
+  </main>
+  <footer>
+    <button>
+    Змінити на темну тему
+    </button>
+  </footer>
+</body>
+</html>
